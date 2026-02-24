@@ -1,4 +1,4 @@
-# ConsumerChurnAnalysis-Prediction
+# ConsumerChurnAnalysisPrediction
 Power BI, SQL and Machine Learning Portfolio Project.
 
 An end-to-end customer churn analytics solution integrating SQL Server ETL, Power BI visualization, and a Python Random Forest machine learning model to analyze historical churn behavior and predict future churners.
